@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MammaClaudia, I live in France. 
 - 👀 I’m passionate about web development and design, AI 
-- 🌱 I’m currently learning Python, Vue.Js, React, Angular
-- 💞️ I’m looking to collaborate on web development. 
-- 📫 you can reach me: Claudia.cernigliaro@hotmail.com
+- 🌱 Python, Vue.Js, React, Angular, Laravel, 
+- 💞️ I’m looking for collaborate on web development. 
+- 📫 You can reach me here : Claudia.cernigliaro@hotmail.com
